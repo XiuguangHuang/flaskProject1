@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Cloud Computing/CC_mini_project-main/.idea/CC_mini_project-main.iml" filepath="$USER_HOME$/Desktop/Cloud Computing/CC_mini_project-main/.idea/CC_mini_project-main.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Cloud Computing/MyWebserver-flask/.idea/MyWebserver-flask.iml" filepath="$USER_HOME$/Desktop/Cloud Computing/MyWebserver-flask/.idea/MyWebserver-flask.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Cloud Computing/RestFULL-api-Flask-master/.idea/RestFULL-api-Flask-master.iml" filepath="$USER_HOME$/Desktop/Cloud Computing/RestFULL-api-Flask-master/.idea/RestFULL-api-Flask-master.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Cloud Computing/Users-Login-main/.idea/Users-Login-main.iml" filepath="$USER_HOME$/Desktop/Cloud Computing/Users-Login-main/.idea/Users-Login-main.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Cloud Computing/flask-restful-app-master/.idea/flask-restful-app-master.iml" filepath="$USER_HOME$/Desktop/Cloud Computing/flask-restful-app-master/.idea/flask-restful-app-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flaskProject.iml" filepath="$PROJECT_DIR$/.idea/flaskProject.iml" />
+    </modules>
+  </component>
+</project>
